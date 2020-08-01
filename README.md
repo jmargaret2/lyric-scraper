@@ -72,4 +72,5 @@ Margaret Jagger \
 margaretjagger2@gmail.com
 
 Project Link: <https://github.com/jmargaret2/lyric-scraper>
+
 Project webpage: <https://jmargaret2.github.io/portfolio/lyricScraper/>
