@@ -52,7 +52,7 @@ Once the program is run, you will be able to type in an artist's name and a numb
 
 ![](https://jmargaret2.github.io/assets/images/scraperPart1.png)
 
-We can see that the program has successfully written 3 songs (that contain a total of 190 lines) into a txt file. Looking at the txt file that was created, we can we it is titled after the artist we entered (in this case, it is alecbenjamin.txt) and contains three distinct songs. [You can view the txt file here.](https://jmargaret2.github.io/assets/txt/alecbenjamin.txt)
+We can see that the program has successfully written 3 songs (that contain a total of 190 lines) into a txt file. Looking at the txt file that was created, we can see it is titled after the artist we entered (in this case, it is alecbenjamin.txt) and contains three distinct songs. [You can view the txt file here.](https://jmargaret2.github.io/assets/txt/alecbenjamin.txt)
 
 The three songs that Genius scraped from its database are three of Alec Benjamin's most popular songs: *Let Me Down Slowly*, *Outrunning Karma*, and *I Built a Friend*.
 
